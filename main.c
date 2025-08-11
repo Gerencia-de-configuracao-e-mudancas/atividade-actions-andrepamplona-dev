@@ -3,5 +3,6 @@
 
 int main(){
     printf("Hello World");
-    10/0
+    float numero = 10/2;
+    printf("%f",numero);
 }
