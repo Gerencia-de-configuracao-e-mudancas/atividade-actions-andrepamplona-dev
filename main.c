@@ -3,4 +3,5 @@
 
 int main(){
     printf("Hello World");
+    10/0
 }
